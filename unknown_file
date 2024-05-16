@@ -1,0 +1,10 @@
+# Python Flask Web App
+
+This is a simple Python Flask web app that displays "Hello, World!"
+
+### Instructions:
+
+1. Install Flask if not already installed: `pip install Flask`
+2. Run the app: `python app.py`
+3. Open a web browser and go to `http://127.0.0.1:5000/`
+4. You should see the message "Hello, World!" displayed on the page.
